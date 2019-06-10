@@ -16,9 +16,15 @@ Features
 This application it’s made for people who don’t have a enough mobility to use a keyboard or don’t have money for high-tech devices. It works with the only use of one/two mouse buttons. It’s meant to be used only to write few words or little senteces as it could be slow to use.
 
 Scroll the letters with the left/right mouse buttons
+
 Wait 1.5 seconds to add the letter
+
 Wait 3.5 seconds to add a space
+
 Hold one of the mouse buttons for 1 second to delete one letter/space
+
 Hold one of the mouse buttons for 2 seconds to delete everything
+
 Customization of the times
+
 You can customize the time of the “Add letter” and “Add space” in the state object inside the App.js file
